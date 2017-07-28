@@ -1,0 +1,6 @@
+# Web framework
+Django==1.11
+
+#decouple
+python-decouple==3.0
+
